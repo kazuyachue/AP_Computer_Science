@@ -1,2 +1,2 @@
 # AP_Computer_Science
- Projects from APCS course at TJHSST.
+ recursion, linked lists, stacks, queues, trees, maps, sets, graphs, heaps
